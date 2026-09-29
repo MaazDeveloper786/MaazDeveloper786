@@ -1,38 +1,13 @@
-<h1 align="center">Hi 👋, I'm Maaz</h1>
-
-<h3 align="center">
-  💻 Frontend Developer | 🌱 Learning Full Stack Development | 🇵🇰 Pakistan
-</h3>
-
-<p align="center">
-  <a href="https://github.com/MaazDeveloper786">
-    <img src="https://komarev.com/ghpvc/?username=maazdeveloper786&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/MaazDeveloper786?tab=followers">
-    <img src="https://img.shields.io/github/followers/MaazDeveloper786?label=Followers&style=for-the-badge&color=236ad3" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/MaazDeveloper786?tab=repositories">
-    <img src="https://img.shields.io/github/stars/MaazDeveloper786?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MaazDeveloper786">
-    <img src="https://github-profile-trophy.vercel.app/?username=maazdeveloper786&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
-I'm **Maaz**, a passionate developer from Pakistan who enjoys creating websites, user interfaces and web applications.
+I'm **Maaz**, a passionate frontend developer from Pakistan who enjoys creating clean, responsive and user-friendly websites.
 
 * 🔭 Currently working on **Login Signup Page**
-* 🌱 Currently learning **HTML, CSS & JavaScript**
-* 💻 Interested in **Frontend & Full Stack Development**
-* 🚀 Building practical web projects to improve my development skills
-* 🤝 Open to learning, collaboration and interesting projects
+* 🌱 Currently learning **HTML & CSS**
+* 💻 Interested in **Frontend Web Development**
+* 🎨 Enjoy creating modern and responsive website designs
+* 🚀 Building practical projects to improve my web development skills
+* 🤝 Open to learning and collaborating on frontend projects
 * ⚡ Fun fact: **I enjoy turning ideas into websites**
 
 ---
@@ -43,23 +18,28 @@ I'm **Maaz**, a passionate developer from Pakistan who enjoys creating websites,
 
 <p align="left">
   <a href="https://www.w3.org/html/">
-    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5"/>
+    <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5"/>
   </a>
   <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript"/>
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3"/>
   </a>
 </p>
 
-### 💻 Tools
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,php,mysql" height="50" alt="Development Tools"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" height="70" alt="HTML CSS"/>
+</p>
+
+<p align="center">
+  <b>HTML</b> • <b>CSS</b> • <b>Responsive Web Design</b> • <b>Modern UI Design</b>
 </p>
 
 ---
@@ -67,11 +47,11 @@ I'm **Maaz**, a passionate developer from Pakistan who enjoys creating websites,
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaazDeveloper786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Maaz's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaazDeveloper786&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Maaz's GitHub Statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazDeveloper786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazDeveloper786&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -87,9 +67,7 @@ I'm **Maaz**, a passionate developer from Pakistan who enjoys creating websites,
 # 📈 Contribution Activity Graph
 
 <p align="center">
-  <a href="https://github.com/MaazDeveloper786">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaazDeveloper786&theme=tokyo-night&hide_border=true&area=true" alt="Maaz's Contribution Activity Graph"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaazDeveloper786&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
 </p>
 
 ---
@@ -97,7 +75,7 @@ I'm **Maaz**, a passionate developer from Pakistan who enjoys creating websites,
 # 📊 GitHub Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaazDeveloper786&theme=tokyonight" alt="GitHub Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaazDeveloper786&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
@@ -109,24 +87,24 @@ I'm **Maaz**, a passionate developer from Pakistan who enjoys creating websites,
 
 # ⭐ GitHub Statistics
 
-| 📌 Statistic           | 📊 Details            |
-| ---------------------- | --------------------- |
-| 📦 Total Repositories  | Automatically updated |
-| ⭐ Total Stars          | Automatically updated |
-| 👥 Followers           | Automatically updated |
-| 🔥 Contribution Streak | Automatically updated |
-| 💻 Most Used Languages | Automatically updated |
-| 📈 Contributions       | Automatically updated |
+| 📌 Statistic           | 📊 Details               |
+| ---------------------- | ------------------------ |
+| 📦 Total Repositories  | 🔄 Automatically updated |
+| ⭐ Total Stars          | 🔄 Automatically updated |
+| 👥 Followers           | 🔄 Automatically updated |
+| 🔥 Contribution Streak | 🔄 Automatically updated |
+| 💻 Main Languages      | HTML & CSS               |
+| 📈 Contributions       | 🔄 Automatically updated |
 
 ---
 
 # 📌 Featured Projects
 
-## 🔐 Login Signup Page
+### 🔐 Login Signup Page
 
-A modern login and signup interface built while practicing frontend development.
+A modern login and signup interface created using **HTML & CSS**, focused on clean design, layout and responsive styling.
 
-<p>
+<p align="left">
   <a href="https://github.com/MaazDeveloper786/Login-Signup-Page">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaazDeveloper786&repo=Login-Signup-Page&theme=tokyonight&hide_border=true" alt="Login Signup Page"/>
   </a>
@@ -134,23 +112,23 @@ A modern login and signup interface built while practicing frontend development.
 
 ---
 
-## 📘 Facebook Page
+### 📘 Facebook Page
 
-A Facebook-inspired web project created for practicing HTML and CSS layouts.
+A Facebook-inspired frontend project created using **HTML & CSS** to practice layouts, styling and responsive design.
 
-<p>
+<p align="left">
   <a href="https://github.com/MaazDeveloper786/Facebook-pag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaazDeveloper786&repo=Facebook-pag&theme=tokyonight&hide_border=true" alt="Facebook Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaazDeveloper786&repo=Facebook-pag&theme=tokyonight&hide_border=true" alt="Facebook Page"/>
   </a>
 </p>
 
 ---
 
-## 🍟 Lay's Website
+### 🍟 Lay's Website
 
-A Lay's-inspired website created using HTML and CSS.
+A Lay's-inspired website built using **HTML & CSS**, focusing on page structure, styling and visual design.
 
-<p>
+<p align="left">
   <a href="https://github.com/MaazDeveloper786/Lay-s-Website-in-Only-Html">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaazDeveloper786&repo=Lay-s-Website-in-Only-Html&theme=tokyonight&hide_border=true" alt="Lay's Website"/>
   </a>
@@ -161,27 +139,25 @@ A Lay's-inspired website created using HTML and CSS.
 # 🚀 What I'm Working On
 
 ```text
-HTML              ████████████████████  Learning
-CSS               ████████████████████  Learning
-JavaScript        ███████████████░░░░░  Learning
-Bootstrap         ████████████████░░░░  Learning
-PHP               ████████████░░░░░░░░  Learning
-MySQL             ███████████░░░░░░░░░  Learning
-Full Stack        █████████░░░░░░░░░░░  Exploring
+HTML                  ████████████████████  Learning
+CSS                   ████████████████████  Learning
+Responsive Design     █████████████████░░░  Improving
+UI Design             ████████████████░░░░  Improving
+Web Development       ███████████████░░░░░  Growing
 ```
 
 ---
 
 # 🎯 Current Goals
 
-* 🚀 Improve my frontend development skills
-* 🎨 Build better and more responsive websites
-* ⚡ Learn modern JavaScript
-* 🧩 Learn backend development
-* 🗄️ Improve PHP & MySQL skills
-* 🌐 Build complete full-stack applications
-* 🤝 Collaborate with other developers
-* 📚 Keep learning and building consistently
+* 🚀 Improve my **HTML & CSS** skills
+* 🎨 Create modern and attractive website designs
+* 📱 Build more responsive websites
+* 💻 Improve frontend development skills
+* 🧩 Create more real-world HTML & CSS projects
+* 📚 Learn modern web design techniques
+* 🤝 Collaborate on frontend projects
+* 🌱 Continue learning and improving every day
 
 ---
 
@@ -194,15 +170,11 @@ CSS
   ↓
 Responsive Web Design
   ↓
-Bootstrap
+Modern UI Design
   ↓
-JavaScript
+Frontend Projects
   ↓
-PHP
-  ↓
-MySQL
-  ↓
-Full Stack Development
+More Web Development
 ```
 
 ---
@@ -217,7 +189,7 @@ Full Stack Development
 
 <p align="center">
   <a href="https://github.com/MaazDeveloper786?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/My%20Repositories-View%20Projects-6C63FF?style=for-the-badge&logo=github" alt="Repositories"/>
   </a>
 </p>
 
@@ -226,19 +198,11 @@ Full Stack Development
 # 💡 Developer Quote
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <i>"Every expert was once a beginner."</i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=120&section=footer" alt="Footer"/>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-<p align="center">
-  ⭐ If you like my projects, consider giving them a star!
+  <b>Thanks for visiting my GitHub profile! 🚀</b>
 </p>
